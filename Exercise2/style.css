@@ -10,9 +10,9 @@ h1 {
 	}
 
 		.container {
-			background: white;
-			padding: 15px;
-			border: 5px inset red;
+			background: #fafafa;
+			padding: 20px;
+			border: 5px inset #f6ceec;
 			margin: 30px auto;
 			width: 25%; float: center;
 					}
@@ -34,7 +34,10 @@ h2 {
 }
 
 img {
-	border: 10px inset black;
+	border: 20px inset black;
+	margin: auto;
+	width: 50%;
+
 
 }
 		.box {
@@ -42,6 +45,47 @@ img {
 			padding: 15px;
 			
 			margin: 30px auto;
-			width: 30%; 
+			width: 30%; float: center;
+			text-align: center;
 
 		}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	color: #00ffff;
+}
+
+		img.center {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+		}
+		.middle {
+			text-align: center;
+		}
+
+ul {
+	font-family: Helvetica;
+	font-size: 15px;
+}
+
+h4 {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+	
