@@ -1,0 +1,19 @@
+body {
+	background-color: #f5ecce;
+}
+
+a {
+	text-decoration: none;
+
+}
+
+.line1 {
+	border-top: 2px solid black;
+	width: 300px;
+	margin: -20px;
+	padding: 10px;
+}
+
+h1 {
+	font-family: Arial;
+}
