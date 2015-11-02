@@ -58,8 +58,8 @@
 			}
 	
 			p {
-				position: absolute;
-				left: 30px;
+				
+				left: 0px;
 				right: 10px;
 				bottom: 0px;
 			}
@@ -223,42 +223,19 @@
 				margin: -390px -218px;	
 			}
 
-			ul.rig {
-				list-style: none;
-				font-size: 0px;
-			}
-			ul.rig li {
-				display: inline-block;
-				padding: 10px;
-				background: #fff;
-				border: 1px solid #ddd;
-				font-size: 16px;
-				font-size: 1rem;
-				vertical-align: top;
-				box-shadow: 0 0 5px #ddd;
-				box-sizing: border-box;
-				-moz-box-sizing: border-box;
-				-webkit-box-sizing: border-box;
-			}
-			ul.rig li img {
-				max-width: 100%;
-				height: auto;
-				margin: 0 0 10px;
-			}
-			ul.rig li h3 {
-				margin: 0 0 5px;
-			}
-			ul.rig li p {
-				font-size: .9em;
-				line-height: 1.5em;
-				color: #999;
+			.original {
+				width: 50px;
+				height: 50px;
+				color: red;
 			}
 
-			ul.rig.columns-2 li {
-				width: 47.5%;
+			.float {
+				position: relative;
+				width: 50px;
+				height: 50px;
+				color: blue;
+				float: right;
 			}
-
-
 	
 
 
@@ -355,31 +332,11 @@
 		<div class="box5">
 		</div>
 
-		<ul class="rig">
-			<li>
-				<img src="images/pri_001.jpg" />
-				<h3>Image Title</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-			</li>
-			<li>
-				<img src="images/pri_002.jpg" />
-				<h3>Image Title</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-			</li>
-			<li>
-				<img src="images/pri_003.jpg" />
-				<h3>Image Title</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-			</li>
-			<li>
-				<img src="images/pri_004.jpg" />
-				<h3>Image Title</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-			</li>
-		</ul>
-		
-		
+		<div class="original">
+			
+		</div>
 
+<div class="float"></div>
 		
 
 
