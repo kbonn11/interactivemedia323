@@ -1,0 +1,424 @@
+* {
+	background-color: black;
+	z-index: -3;
+
+}
+
+.canvas {
+	height: 500px;
+	width: 700px;
+	position: static;
+	margin-left: 300px;
+}
+
+.text {
+	position: absolute;
+	font-family: Helvetica;
+
+}
+
+.l {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 500px;
+	margin-left: 150px;
+}
+
+.m {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 400px;
+	margin-left: 150px;
+}
+
+.n {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 270px;
+	margin-left: 150px;
+}
+
+.o {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 450px;
+	margin-left: 220px;
+}
+
+.p {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 430px;
+	margin-left: 220px;
+}
+
+.q {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 500px;
+	margin-left: 150px;
+}
+
+.a {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 520px;
+	margin-left: 215px;
+}
+
+.b {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 480px;
+	margin-left: 150px;
+}
+
+.c {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 480px;
+	margin-left: 150px;
+}
+
+.d {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 420px;
+	margin-left: 150px;
+}
+
+.e {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 310px;
+	margin-left: 180px;
+	text-align: center;
+}
+
+.f {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 240px;
+	margin-left: 220px;
+	text-align: center;
+	z-index: 3;
+}
+
+.g {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 490px;
+	margin-left: 200px;
+	text-align: center;
+}
+
+.h {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 500px;
+	margin-left: 150px;
+	text-align: center;
+}
+
+.i {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 475px;
+	margin-left: 150px;
+	text-align: center;
+}
+
+.j {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 500px;
+	margin-left: 150px;
+	text-align: center;
+}
+
+.k {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 455px;
+	margin-left: 150px;
+	text-align: left;
+}
+
+.r {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 435px;
+	margin-left: 150px;
+	text-align: left;
+}
+
+.s {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 450px;
+	margin-left: 150px;
+	text-align: left;
+}
+
+.t {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 380px;
+	margin-left: 180px;
+	text-align: left;
+}
+
+.u {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 330px;
+	margin-left: 150px;
+	text-align: right;
+}
+
+.bb {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 280px;
+	margin-left: 230px;
+	text-align: right;
+
+}
+
+.ii {
+	color: #3B0B0B;
+	z-index: 3;
+	margin-top: 220px;
+	margin-left: 110px;
+	text-align: right;
+}
+
+.jj {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 180px;
+	margin-left: 80px;
+	text-align: right;
+}
+
+.kk {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 130px;
+	margin-left: 50px;
+	text-align: right;
+}
+
+.ll {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 170px;
+	margin-left: 220px;
+	text-align: center;
+}
+
+.mm {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 120px;
+	margin-left: 220px;
+	text-align: center;
+}
+
+.nn {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 250px;
+	margin-left: 280px;
+	text-align: center;
+}
+
+.oo {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 210px;
+	margin-left: 300px;
+	text-align: left;
+}
+
+.pp {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 180px;
+	margin-left: 380px;
+	text-align: left;
+}
+
+.qq {
+	color: #3B0B0B;
+	z-index: 1;
+	margin-top: 150px;
+	margin-left: 390px;
+	text-align: left;
+}
+
+.leafone {
+	color: #40FF00;
+	z-index: 1;
+	margin-top: 250px;
+	margin-left: 350px;
+	text-align: left;
+	 /* Starting position */
+ -moz-transform:translateY(-100%);
+ -webkit-transform:translateY(-100%);	
+ transform:translateY(-100%);
+ /* Apply animation to this element */	
+ -moz-animation: scroll-down 5s linear infinite;
+ -webkit-animation: scroll-down 5s linear infinite;
+ animation: scroll-down 5s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-down {
+ 0%   { -moz-transform: translateY(-100%); }
+ 100% { -moz-transform: translateY(100%); }
+}
+@-webkit-keyframes scroll-down {
+ 0%   { -webkit-transform: translateY(-100%); }
+ 100% { -webkit-transform: translateY(100%); }
+}
+@keyframes scroll-down {
+ 0%   { 
+ -moz-transform: translateY(-100%); /* Browser bug fix */
+ -webkit-transform: translateY(-100%); /* Browser bug fix */
+ transform: translateY(-100%); 		
+ }
+ 100% { 
+ -moz-transform: translateY(100%); /* Browser bug fix */
+ -webkit-transform: translateY(100%); /* Browser bug fix */
+ transform: translateY(100%); 
+ }
+}
+}
+
+.leaftwo {
+	color: #40FF00;
+	z-index: 1;
+	margin-top: 180px;
+	margin-left: 420px;
+	text-align: left;
+}
+
+.leafthree {
+	color: #40FF00;
+	z-index: 1;
+	margin-top: 150px;
+	margin-left: 320px;
+	text-align: left;
+}
+
+.leaffour {
+	color: #40FF00;
+	z-index: 1;
+	margin-top: 130px;
+	margin-left: 260px;
+	text-align: left;
+}
+
+.leaffive {
+	color: #40FF00;
+	z-index: 1;
+	margin-top: 190px;
+	margin-left: 180px;
+	text-align: left;
+}
+
+.leafsix {
+	color: #40FF00;
+	z-index: 1;
+	margin-top: 140px;
+	margin-left: 100px;
+	text-align: left;
+}
+
+.leafseven {
+	color: #40FF00;
+	z-index: 1;
+	margin-top: 180px;
+	margin-left: 60px;
+	text-align: left;
+}
+
+.leafeight {
+	color: #40FF00;
+	z-index: 1;
+	margin-top: 250px;
+	margin-left: 60px;
+	text-align: left;
+		 /* Starting position */
+ -moz-transform:translateY(-100%);
+ -webkit-transform:translateY(-100%);	
+ transform:translateY(-100%);
+ /* Apply animation to this element */	
+ -moz-animation: scroll-down 5s linear infinite;
+ -webkit-animation: scroll-down 5s linear infinite;
+ animation: scroll-down 5s linear infinite;
+}
+/* Move it (define the animation) */
+@-moz-keyframes scroll-down {
+ 0%   { -moz-transform: translateY(-100%); }
+ 100% { -moz-transform: translateY(100%); }
+}
+@-webkit-keyframes scroll-down {
+ 0%   { -webkit-transform: translateY(-100%); }
+ 100% { -webkit-transform: translateY(100%); }
+}
+@keyframes scroll-down {
+ 0%   { 
+ -moz-transform: translateY(-100%); /* Browser bug fix */
+ -webkit-transform: translateY(-100%); /* Browser bug fix */
+ transform: translateY(-100%); 		
+ }
+ 100% { 
+ -moz-transform: translateY(100%); /* Browser bug fix */
+ -webkit-transform: translateY(100%); /* Browser bug fix */
+ transform: translateY(100%); 
+ }
+}
+}
+
+.leafnine {
+	color: maroon;
+	z-index: 1;
+	margin-top: 550px;
+	margin-left: 0px;
+	text-align: left;
+	letter-spacing: -2px;
+}
+
+.leaften {
+	color: orange;
+	z-index: 2;
+	margin-top: 540px;
+	margin-left: 0px;
+	text-align: left;
+	letter-spacing: -3px;
+}
+
+.leafeleven {
+	color: #FACC2E;
+	z-index: 2;
+	margin-top: 550px;
+	margin-left: 0px;
+	text-align: left;
+	letter-spacing: -5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
