@@ -1,6 +1,10 @@
-* {
+.body {
 	background-color: black;
 	z-index: -3;
+	height: 600px;
+	width: 1000px;
+	margin-top: 100px;
+	margin-left: 50px;
 
 }
 
@@ -18,77 +22,77 @@
 }
 
 .l {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 500px;
 	margin-left: 150px;
 }
 
 .m {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 400px;
 	margin-left: 150px;
 }
 
 .n {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 270px;
 	margin-left: 150px;
 }
 
 .o {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 450px;
 	margin-left: 220px;
 }
 
 .p {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 430px;
 	margin-left: 220px;
 }
 
 .q {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 500px;
 	margin-left: 150px;
 }
 
 .a {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 520px;
 	margin-left: 215px;
 }
 
 .b {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 480px;
 	margin-left: 150px;
 }
 
 .c {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 480px;
 	margin-left: 150px;
 }
 
 .d {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 420px;
 	margin-left: 150px;
 }
 
 .e {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 310px;
 	margin-left: 180px;
@@ -96,7 +100,7 @@
 }
 
 .f {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 240px;
 	margin-left: 220px;
@@ -105,7 +109,7 @@
 }
 
 .g {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 490px;
 	margin-left: 200px;
@@ -113,7 +117,7 @@
 }
 
 .h {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 500px;
 	margin-left: 150px;
@@ -121,7 +125,7 @@
 }
 
 .i {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 475px;
 	margin-left: 150px;
@@ -129,7 +133,7 @@
 }
 
 .j {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 500px;
 	margin-left: 150px;
@@ -137,7 +141,7 @@
 }
 
 .k {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 455px;
 	margin-left: 150px;
@@ -145,7 +149,7 @@
 }
 
 .r {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 435px;
 	margin-left: 150px;
@@ -153,7 +157,7 @@
 }
 
 .s {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 450px;
 	margin-left: 150px;
@@ -161,7 +165,7 @@
 }
 
 .t {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 380px;
 	margin-left: 180px;
@@ -169,7 +173,7 @@
 }
 
 .u {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 330px;
 	margin-left: 150px;
@@ -177,7 +181,7 @@
 }
 
 .bb {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 280px;
 	margin-left: 230px;
@@ -186,7 +190,7 @@
 }
 
 .ii {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 3;
 	margin-top: 220px;
 	margin-left: 110px;
@@ -194,7 +198,7 @@
 }
 
 .jj {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 180px;
 	margin-left: 80px;
@@ -202,7 +206,7 @@
 }
 
 .kk {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 130px;
 	margin-left: 50px;
@@ -210,7 +214,7 @@
 }
 
 .ll {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 170px;
 	margin-left: 220px;
@@ -218,7 +222,7 @@
 }
 
 .mm {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 120px;
 	margin-left: 220px;
@@ -226,7 +230,7 @@
 }
 
 .nn {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 250px;
 	margin-left: 280px;
@@ -234,7 +238,7 @@
 }
 
 .oo {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 210px;
 	margin-left: 300px;
@@ -242,7 +246,7 @@
 }
 
 .pp {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 180px;
 	margin-left: 380px;
@@ -250,7 +254,7 @@
 }
 
 .qq {
-	color: #3B0B0B;
+	color: #8B4513;
 	z-index: 1;
 	margin-top: 150px;
 	margin-left: 390px;
@@ -260,9 +264,10 @@
 .leafone {
 	color: #40FF00;
 	z-index: 1;
-	margin-top: 250px;
+	margin-top: 400px;
 	margin-left: 350px;
 	text-align: left;
+	height: 120px;
 	 /* Starting position */
  -moz-transform:translateY(-100%);
  -webkit-transform:translateY(-100%);	
@@ -346,17 +351,18 @@
 .leafeight {
 	color: #40FF00;
 	z-index: 1;
-	margin-top: 250px;
+	margin-top: 350px;
 	margin-left: 60px;
 	text-align: left;
+	height: 140px;
 		 /* Starting position */
  -moz-transform:translateY(-100%);
  -webkit-transform:translateY(-100%);	
  transform:translateY(-100%);
  /* Apply animation to this element */	
- -moz-animation: scroll-down 5s linear infinite;
- -webkit-animation: scroll-down 5s linear infinite;
- animation: scroll-down 5s linear infinite;
+ -moz-animation: scroll-down 7s linear infinite;
+ -webkit-animation: scroll-down 7s linear infinite;
+ animation: scroll-down 7s linear infinite;
 }
 /* Move it (define the animation) */
 @-moz-keyframes scroll-down {
@@ -406,6 +412,46 @@
 	margin-left: 0px;
 	text-align: left;
 	letter-spacing: -5px;
+}
+
+.leaftwelve {
+	color: maroon;
+	z-index: -2;
+	margin-top: 550px;
+	margin-left: 50px;
+	text-align: left;
+	letter-spacing: -5px;
+}
+
+.leafthirteen {
+	color: maroon;
+	z-index: 2;
+	margin-top: 550px;
+	margin-left: 330px;
+	text-align: left;
+	
+}
+
+.leaffourteen {
+	color: orange;
+	z-index: 2;
+	margin-top: 560px;
+	margin-left: 330px;
+	text-align: left;
+	letter-spacing: -2px;
+	font-size: 10px;
+	
+}
+
+.leaffifteen {
+	color: #FACC2E;
+	z-index: 2;
+	margin-top: 560px;
+	margin-left: 420px;
+	text-align: left;
+	letter-spacing: -2px;
+	font-size: 12px;
+	
 }
 
 

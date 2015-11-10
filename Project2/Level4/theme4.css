@@ -3,7 +3,10 @@ a:link {
 }
 
 .link {
-	padding-top: 20%
+	padding-top: 20%;
+	font-family: Arial;
+	font-size: 30px;
+
 }
 
 .space {
@@ -12,7 +15,8 @@ a:link {
 
 .two {
 	margin-left: 25%;
-}
+	margin-top: 500px;
+	}
 
 .three {
 	margin-left: 75%;

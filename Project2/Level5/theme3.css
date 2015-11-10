@@ -3,6 +3,9 @@
 	text-align: center;
 	line-height: 30px;
 }
+div:hover {
+	background-color: white;
+}
 
 
 .bar-one {
