@@ -54,3 +54,30 @@
 	letter-spacing: 25px;
 	font-size: 14px;
 }
+
+
+
+
+
+
+
+#right-triangle {
+   width: 0;
+   height: 0;
+   border-left: 40px solid #0A0A2A;
+   border-top: 30px solid transparent;
+   border-bottom: 30px solid transparent;
+   margin-left: 1100px;
+   margin-top: 200px;
+}
+
+
+
+#left-triangle {
+   width: 0;
+   height: 0;
+   border-right: 40px solid maroon;
+   border-top: 30px solid transparent;
+   border-bottom: 30px solid transparent;
+   margin-top: -65px;
+}

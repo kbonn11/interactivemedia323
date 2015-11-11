@@ -1,19 +1,6 @@
-.bodyone {
-	height: 30%;
-	
-	margin-left: 30%;
-}
-
-.bodytwo {
-	height: 30%;
-	width: 50%;
-	margin-left: 26%;
-	margin-top: -40%
-}
-
-.bodythree {
-	height: 30%;
-	margin-top: -40%
+.body {
+	height: 600px;
+	position: static;
 }
 
 
@@ -21,44 +8,62 @@
 .a {
 	color: #8A0808;
 	font-family: Verdana;
-	font-size: 50px;
+	font-size: 70px;
+	margin-left: -20px;
+	
 }
 
 .b {
 	color: #FF8000;
-	font-style: italic;
+	font-family: monospace;
 	font-size: 35px;
+	z-index: 1;
 }
 
 .c {
 	color: #DF7401;
-	font-weight: oblique; 
-	font-size: 60px;
+	font-family: Arial; 
+	font-size: 100px;
+	margin-left: 130px;
+	font-weight: bold;
+	margin-top: -50px;
+	z-index: 1;
 }
 
 .d {
 	color: #21610B;
 	font-family: sans-serif;
-	font-size: 44px;
+	font-size: 64px;
+	margin-left: 200px;
+	margin-top: -50px;
+	z-index: 1;
 }
 
 .e {
-	color: #08088A;
-	font-style: italic;
-	font-size: 65px;
+	color: #FACC2E;
+	font-family: Arial;
+	font-size: 85px;
+	margin-left: 500px;
+	margin-top: -160px;
+	line-height: 60px;
+	z-index: -3;
+
 }
 
 .f {
 	color: #8A2908;
 	font-size: 75px;
 	font-family: Helvetica;
+	margin-left: -500px;
 }
 
 .g {
 	color: #FFFF00;
 	font-family: Impact;
-	font-size: 22px;
+	font-size: 42px;
 	letter-spacing: 15px;
+	margin-top: -100px;
+
 }
 
 .h {
@@ -67,9 +72,36 @@
 	font-size: 60px;
 }
 
+.i {
+	color: #DF7401;
+	margin-top: -420px;
+	font-family: Helvetica;
+	font-size: 60px;
+	margin-left: 745px;
+}
 
 
 
+#right-triangle {
+   width: 0;
+   height: 0;
+   border-left: 40px solid maroon;
+   border-top: 30px solid transparent;
+   border-bottom: 30px solid transparent;
+   margin-left: 1100px;
+   margin-top: 200px;
+}
+
+
+
+#left-triangle {
+   width: 0;
+   height: 0;
+   border-right: 40px solid #3B0B0B;
+   border-top: 30px solid transparent;
+   border-bottom: 30px solid transparent;
+   margin-top: -65px;
+}
 
 
 

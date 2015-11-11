@@ -151,7 +151,26 @@ a:hover {
 
 
 
+#right-triangle {
+   width: 0;
+   height: 0;
+   border-left: 40px solid #B45F04;
+   border-top: 30px solid transparent;
+   border-bottom: 30px solid transparent;
+   margin-left: 1200px;
+   margin-top: 100px;
+}
 
+
+
+#left-triangle {
+   width: 0;
+   height: 0;
+   border-right: 40px solid #0A0A2A;
+   border-top: 30px solid transparent;
+   border-bottom: 30px solid transparent;
+   margin-top: -65px;
+}
 
 
 
