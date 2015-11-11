@@ -981,8 +981,9 @@
 
 .title-box {
 	width: 300px;
-	position: static;
+	position: absolute;
 	margin-left: 625px;
+	z-index: -1;
 
 	
 }
