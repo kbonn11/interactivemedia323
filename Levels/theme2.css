@@ -1,0 +1,172 @@
+* {
+	background-color: black;
+}
+.body-one {
+	height: 1000px;
+	width: 1000px;
+	position: static;
+	
+}
+
+
+
+.text {
+	position: absolute;
+	color: white;
+	font-family: Arial;
+}
+
+.one {
+	margin-left: 0px;
+	margin-top: 0px;
+	font-size: 125px;
+}
+.two {
+	margin-left: 50px;
+	margin-top: 150px;
+	font-size: 100px;
+}
+
+.three {
+	margin-left: 250px;
+	margin-top: 290px;
+	font-size: 80px;
+}
+
+.four {
+	margin-left: 330px;
+	margin-top: 380px;
+	font-size: 60px;
+}
+
+.five {
+	margin-left: 550px;
+	margin-top: 450px;
+	font-size: 40px;
+}
+
+.six {
+	margin-left: 590px;
+	margin-top: 500px;
+	font-size: 35px;
+}
+
+.seven {
+	margin-left: 670px;
+	margin-top: 550px;
+	font-size: 30px;
+}
+
+.eight {
+	margin-left: 670px;
+	margin-top: 600px;
+	font-size: 25px;
+}
+
+.nine {
+	margin-left: 645px;
+	margin-top: 600px;
+	font-size: 25px;
+}
+
+.ten {
+	margin-left: 585px;
+	margin-top: 650px;
+	font-size:22px;
+}
+
+.eleven {
+	margin-left: 550px;
+	margin-top: 680px;
+	font-size: 20px;
+}
+
+.twelve {
+	margin-left: 530px;
+	margin-top: 700px;
+	font-size: 20px;
+}
+
+.fourteen {
+	margin-left: 500px;
+	margin-top: 730px;
+	font-size: 20px;
+}
+
+.fifteen {
+	margin-left: 520px;
+	margin-top: 750px;
+	font-size: 18px;
+}
+
+.sixteen {
+	margin-left: 550px;
+	margin-top: 770px;
+	font-size: 18px;
+}
+
+.seventeen {
+	margin-left: 580px;
+	margin-top: 790px;
+	font-size: 16px;
+}
+
+.eighteen {
+	margin-left: 620px;
+	margin-top: 810px;
+	font-size: 16px;
+}
+
+.nineteen {
+	margin-left: 650px;
+	margin-top: 830px;
+	font-size: 14px;
+}
+
+
+
+
+
+
+.nav {
+         display: inline-block;
+         margin-left: 45%;
+      }
+      .back {
+         display: inline-block;
+      }
+      .home {
+         display: inline-block;
+         margin-left: 0px;
+         padding-left: 15px;
+         
+      }
+      .next {
+         display: inline-block;
+         padding-left: 15px;
+         color: white;
+      }
+ 
+      a {
+         text-decoration: none;
+         font-family: Helvetica;
+         font-weight: bold;
+      }
+
+      a:hover {
+         background-color: maroon;
+      }
+      a:visited {
+         color: white;
+      }
+
+
+
+
+
+
+
+
+
+
+
