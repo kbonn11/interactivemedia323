@@ -575,7 +575,7 @@
 	position: static;
 }
 
-.a-first a {
+.a-first {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: maroon;
@@ -591,7 +591,7 @@
 }
 
 
-#a-second {
+.a-second {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -601,7 +601,7 @@
 	margin-top: 15px;
 	}
 
-#a-second:hover {
+.a-second:hover {
 	color: white;	
 }
 
@@ -655,10 +655,12 @@
 	position: absolute;
 	margin-top: 165px;
 	margin-left: 175px;
+	text-decoration: none;
 	}
 
 #b-first:hover {
-	color: white;	
+	color: white;
+
 }
 
 #b-second {
