@@ -1,0 +1,38 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: black;
+}
+
+.canvas {
+	width: 900px;
+	height: 556px;
+	margin: 100px auto;
+	background: white;
+	position: relative;
+	color: #F5F6CE;
+}
+
+.object {
+	position: absolute;
+}
+
+.lamp-container {
+	width: 300px;
+	height: 480px;
+	bottom: 60px;
+	left: 200px;
+}
+
+
+
+
+.trapezoid {
+	border-bottom: 100px solid red;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 100px;
+}
