@@ -605,7 +605,7 @@
 	color: white;	
 }
 
-#a-third {
+.a-third {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -615,11 +615,11 @@
 	margin-top: 90px;
 	}
 
-#a-third:hover {
+.a-third:hover {
 	color: white;	
 }
 
-#a-four {
+.a-four {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -629,11 +629,11 @@
 	margin-top: 15px;
 	}
 
-#a-four:hover {
+.a-four:hover {
 	color: white;	
 }
 
-#a-five {
+.a-five {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -643,11 +643,11 @@
 	margin-top: 15px;
 	}
 
-#a-five:hover {
+.a-five:hover {
 	color: white;	
 }
 
-#b-first {
+.b-first {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -658,12 +658,12 @@
 	text-decoration: none;
 	}
 
-#b-first:hover {
+.b-first:hover {
 	color: white;
 
 }
 
-#b-second {
+.b-second {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -673,11 +673,11 @@
 	margin-left: 250px;
 	}
 
-#b-second:hover {
+.b-second:hover {
 	color: white;	
 }
 
-#b-third {
+.b-third {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -687,11 +687,11 @@
 	margin-left: 325px;
 	}
 
-#b-third:hover {
+.b-third:hover {
 	color: white;	
 }
 
-#b-fourth {
+.b-fourth {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -701,11 +701,11 @@
 	margin-left: 473px;
 	}
 
-#b-fourth:hover {
+.b-fourth:hover {
 	color: white;	
 }
 
-#b-fifth {
+.b-fifth {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -715,11 +715,11 @@
 	margin-left: 547px;
 	}
 
-#b-fifth:hover {
+.b-fifth:hover {
 	color: white;	
 }
 
-#c-first {
+.c-first {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -729,11 +729,11 @@
 	margin-left: 25px;
 	}
 
-#c-first:hover {
+.c-first:hover {
 	color: white;	
 }
 
-#c-second {
+.c-second {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -743,11 +743,11 @@
 	margin-left: 100px;
 	}
 
-#c-second:hover {
+.c-second:hover {
 	color: white;	
 }
 
-#c-third {
+.c-third {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -757,11 +757,11 @@
 	margin-left: 250px;
 	}
 
-#c-third:hover {
+.c-third:hover {
 	color: white;	
 }
 
-#c-fourth {
+.c-fourth {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -771,11 +771,11 @@
 	margin-left: 397px;
 	}
 
-#c-fourth:hover {
+.c-fourth:hover {
 	color: white;	
 }
 
-#c-fifth {
+.c-fifth {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -785,11 +785,11 @@
 	margin-left: 398px;
 	}
 
-#c-fifth:hover {
+.c-fifth:hover {
 	color: white;	
 }
 
-#d-first {
+.d-first {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -799,11 +799,11 @@
 	margin-left: 23px;
 	}
 
-#d-first:hover {
+.d-first:hover {
 	color: white;	
 }
 
-#d-second {
+.d-second {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -813,11 +813,11 @@
 	margin-left: 98px;
 	}
 
-#d-second:hover {
+.d-second:hover {
 	color: white;	
 }
 
-#d-third {
+.d-third {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -827,11 +827,11 @@
 	margin-left: 175px;
 	}
 
-#d-third:hover {
+.d-third:hover {
 	color: white;	
 }
 
-#d-fourth {
+.d-fourth {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -841,11 +841,11 @@
 	margin-left: 245px;
 	}
 
-#d-fourth:hover {
+.d-fourth:hover {
 	color: white;	
 }
 
-#d-fifth {
+.d-fifth {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -855,12 +855,12 @@
 	margin-left: 549px;
 	}
 
-#d-fifth:hover {
+.d-fifth:hover {
 	color: white;	
 }
 
 
-#e-first {
+.e-first {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -870,11 +870,11 @@
 	margin-left: 23px;
 	}
 
-#e-first:hover {
+.e-first:hover {
 	color: white;	
 }
 
-#e-second {
+.e-second {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -884,11 +884,11 @@
 	margin-left: 100px;
 	}
 
-#e-second:hover {
+.e-second:hover {
 	color: white;	
 }
 
-#e-third {
+.e-third {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -898,11 +898,11 @@
 	margin-left: 400px;
 	}
 
-#e-third:hover {
+.e-third:hover {
 	color: white;	
 }
 
-#e-fourth {
+.e-fourth {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -912,11 +912,11 @@
 	margin-left: 473px;
 	}
 
-#e-fourth:hover {
+.e-fourth:hover {
 	color: white;	
 }
 
-#e-fifth {
+.e-fifth {
 	font-family: Helvetica;
 	font-size: 50px;
 	color: transparent;
@@ -926,7 +926,7 @@
 	margin-left: 547px;
 	}
 
-#e-fifth:hover {
+.e-fifth:hover {
 	color: white;	
 }
 
