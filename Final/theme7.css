@@ -64,23 +64,8 @@
 	margin-top: 250px;
 }
 
-.square {
-	width: 250px; 
-	height: 450px;
-	background-color: white;
-	position: absolute;
-	margin-top: 90px;
-	margin-left: 425px;
-}
 
-.stats {
-	position: absolute;
-	margin-top: 110px;
-	margin-left: 430px;
-	font-size: 50px;
-	font-family: Helvetica;
-	font-weight: bold;
-}
+
 
 
 
