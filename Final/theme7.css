@@ -57,20 +57,29 @@
 
 .home {
 	font-family: monospace;
-	font-size: 75px;
+	font-size: 60px;
 	color: blue;
 	position: absolute;
-	margin-left: 455px;
-	margin-top: 250px;
+	margin-left: 900px;
+	margin-top: 100px;
 }
 
-.hometwo {
-	font-family: monospace;
-	font-size: 75px;
-	color: blue;
+.square {
+	width: 250px; 
+	height: 450px;
+	background-color: white;
 	position: absolute;
-	margin-left: 455px;
-	margin-top: 350px;
+	margin-top: 90px;
+	margin-left: 425px;
+}
+
+.stats {
+	position: absolute;
+	margin-top: 110px;
+	margin-left: 430px;
+	font-size: 50px;
+	font-family: Helvetica;
+	font-weight: bold;
 }
 
 
