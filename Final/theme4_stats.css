@@ -1,0 +1,92 @@
+.screen {
+	width: 1024px;
+	height: 968px;
+	position: static;
+	background-color: black;
+	
+}
+
+.text {
+	font-family: Courier New;
+	font-weight: lighter;
+	color: white;
+	font-size: 65px;
+	position: absolute;	
+	z-index: 2;
+}
+
+.line1 {
+	line-height: 65px;
+	margin-left: 60px;
+}
+
+.line2 {
+	margin-top: 70px;
+	margin-left: 220px;
+}
+
+.line3 {
+	margin-top: 150px;
+	margin-left: 180px;
+}
+
+.line4 {
+	margin-top: 230px;
+	margin-left: 190px;
+}
+
+.line5 {
+	margin-top: 310px;
+	margin-left: 255px;
+}
+
+.line6 {
+	margin-top: 390px;
+	margin-left: 60px;
+}
+
+.line7 {
+	margin-top: 475px;
+	margin-left: 100px;
+}
+
+.line8 {
+	margin-top: 560px;
+	margin-left: 60px;
+	font-size: 60px;
+}
+
+
+.home {
+	font-family: monospace;
+	font-size: 70px;
+	color: blue;
+	position: absolute;
+	margin-left: 80px;
+	margin-top: 90px;
+	
+
+}
+
+.square {
+	position: absolute;
+	height: 470px;
+	width: 250px;
+	background-color: white;
+	margin-left: 750px;
+	margin-top: 85px;
+}
+
+.stats {
+	position: absolute;
+	margin-left: 750px;
+	margin-top: 85px;
+	font-size: 40px;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+
+
+
+

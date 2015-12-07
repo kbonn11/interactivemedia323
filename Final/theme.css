@@ -1,0 +1,25 @@
+.screen {
+	width: 1024px;
+	height: 968px;
+	position: static;
+	background-color: black;	
+	z-index: -1;
+}
+
+.canvas {
+	position: static;
+	width: 1024px;
+	height: 968px;
+	
+}
+
+.one {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	background-color: white;
+	margin-left: 60px;
+	margin-top: 100px;
+	z-index: 2;
+}
+

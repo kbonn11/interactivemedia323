@@ -1,0 +1,78 @@
+.screen {
+	width: 1024px;
+	height: 968px;
+	position: static;
+	background-color: black;
+	
+}
+
+.text {
+	font-family: Courier New;
+	font-weight: lighter;
+	color: white;
+	font-size: 65px;
+	position: absolute;	
+	z-index: 2;
+}
+
+.line1 {
+	line-height: 65px;
+	margin-left: 60px;
+}
+
+.line2 {
+	margin-top: 70px;
+	margin-left: 300px;
+}
+
+.line3 {
+	margin-top: 150px;
+	margin-left: 300px;
+}
+
+.line4 {
+	margin-top: 230px;
+	margin-left: 300px;
+}
+
+.line5 {
+	margin-top: 310px;
+	margin-left: 300px;
+}
+
+.line6 {
+	margin-top: 390px;
+	margin-left: 60px;
+}
+
+
+.home {
+	font-family: monospace;
+	font-size: 75px;
+	color: blue;
+	position: absolute;
+	margin-left: 80px;
+	margin-top: 450px;
+}
+
+.square {
+	position: absolute;
+	width: 200px;
+	height: 300px;
+	background-color: white;
+	margin-top: 80px;
+	margin-left: 70px;
+}
+
+.stats {
+	position: absolute;
+	margin-top: 120px;
+	margin-left: 73px;
+	font-size: 40px;
+	font-family: Helvetica;
+	font-weight: bold;
+}
+
+
+
+
