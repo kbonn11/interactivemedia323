@@ -61,11 +61,28 @@
 	color: blue;
 	position: absolute;
 	margin-left: 485px;
-	margin-top: 220px;
+	margin-top: 520px;
+}
+
+.square {
+	width: 250px;
+	height: 360px;
+	position: absolute;
+	background-color: white;
+	margin-left: 455px;
+	margin-top: 80px;
 }
 
 
-
+.stats {
+	position: absolute;
+	margin-left: 460px;
+	margin-top: 86px;
+	font-size: 37px;
+	font-family: Helvetica;
+	font-weight: bold;
+	
+}
 
 
 
